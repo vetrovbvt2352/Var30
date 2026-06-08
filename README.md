@@ -43,6 +43,7 @@ requirements.txt — список зависимостей и библиотек
 
 Bash
 git clone https://github.com/vetrovbvt2352/Var30.git
+
 Установите необходимые зависимости:
 
 Bash
