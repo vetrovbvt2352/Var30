@@ -1,0 +1,5 @@
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+opencv-python-headless
